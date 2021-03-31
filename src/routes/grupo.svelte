@@ -50,6 +50,12 @@
         font-weight: normal;
     }
 
+    @media only screen and (max-width: 400px) {
+    .card {
+        flex-direction: column;
+    }
+}
+
 </style>
 
 <title>Arkanna - Grupo de Aventureiros</title>
