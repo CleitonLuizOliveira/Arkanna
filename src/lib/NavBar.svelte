@@ -28,7 +28,7 @@
 
     .hamburger {
         position: absolute;
-        top: 9px;
+        /* top: 12px; */
         left: 16px;
         cursor: pointer;
         user-select: none;
