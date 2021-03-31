@@ -54,6 +54,10 @@
     .card {
         flex-direction: column;
     }
+
+    .card:nth-of-type(even) {
+        flex-direction: column-reverse;
+    }
 }
 
 </style>
