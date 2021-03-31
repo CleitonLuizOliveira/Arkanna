@@ -39,7 +39,7 @@
         font-size: 2rem;
         line-height: 1rem;
         transform: scaleX(2);
-        margin-left: 6px;
+        margin-left: 10px;
         color: white;
     }
 
