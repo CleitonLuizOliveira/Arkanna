@@ -56,6 +56,8 @@
     a {
         color: white;
         padding: 4px 0;
+        text-decoration: none;
+        user-select: none;
     }
 </style>
 
