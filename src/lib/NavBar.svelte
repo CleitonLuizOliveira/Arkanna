@@ -1,5 +1,9 @@
 <script>
-    
+    let showMenu = false;
+
+    function toggleMenu() {
+        showMenu = !showMenu;
+    }
 </script>
 
 <style>
@@ -16,14 +20,15 @@
     legend {
         font-weight: bold;
         letter-spacing: 0.5px;
-        font-size: 2rem;
+        font-size: 1.2rem;
         text-transform: uppercase;
+        text-align: center;
     }
 
     .hamburger {
         position: absolute;
-        top: 16px;
-        left: 26px;
+        top: 9px;
+        left: 16px;
         cursor: pointer;
     }
 
@@ -38,8 +43,8 @@
 
     .menu {
         position: absolute;
-        top: 42px;
-        left: 26px;
+        top: 36px;
+        left: 16px;
         display: flex;
         flex-direction: column;
         background-color: #490202;
@@ -56,16 +61,18 @@
 
 <nav>
     <legend>Rebeldes de Arkanna</legend>
-    <div class="hamburger">
+    <div class="hamburger" on:click={toggleMenu}>
         <div class="bar"></div>
         <div class="bar"></div>
         <div class="bar"></div>
     </div>
-    <div class="menu">
-        <a href="/">Início</a>
-        <a href="/mundo">Criação do Mundo</a>
-        <a href="/guilda">A Guilda</a>
-        <a href="grupo">O Grupo</a>
-        <a href="diario">Diário de Aventuras</a>
-    </div>
+    {#if showMenu}
+        <div class="menu">
+            <a href="/">Início</a>
+            <a href="/mundo">Criação do Mundo</a>
+            <a href="/guilda">A Guilda</a>
+            <a href="grupo">O Grupo</a>
+            <a href="diario">Diário de Aventuras</a>
+        </div>
+    {/if}
 </nav>
