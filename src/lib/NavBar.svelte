@@ -23,6 +23,7 @@
         font-size: 1.2rem;
         text-transform: uppercase;
         text-align: center;
+        user-select: none;
     }
 
     .hamburger {
@@ -30,6 +31,16 @@
         top: 9px;
         left: 16px;
         cursor: pointer;
+        user-select: none;
+        width: 30px;
+    }
+
+    .close {
+        font-size: 2rem;
+        line-height: 1rem;
+        transform: scaleX(2);
+        margin-left: 6px;
+        color: white;
     }
 
     .bar {
@@ -59,14 +70,22 @@
         text-decoration: none;
         user-select: none;
     }
+
 </style>
 
 <nav>
     <legend>Rebeldes de Arkanna</legend>
     <div class="hamburger" on:click={toggleMenu}>
+        {#if showMenu}        
+            <div class="close">x</div>
+        {:else}
+            <div class="bar"></div>
+            <div class="bar"></div>
+            <div class="bar"></div>
+        {/if}
+        <!-- <div class="bar"></div>
         <div class="bar"></div>
-        <div class="bar"></div>
-        <div class="bar"></div>
+        <div class="bar"></div> -->
     </div>
     {#if showMenu}
         <div class="menu">
