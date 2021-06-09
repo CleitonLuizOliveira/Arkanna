@@ -5,6 +5,10 @@
     import Djuly from '../assets/images/djuly.jpg';
     import Gui from '../assets/images/gui.png';
     import Lucas from '../assets/images/lucas.jpg';
+    import Gaby from '../assets/images/gaby.png';
+    import Berreta from '../assets/images/berreta.jpg';
+
+
 </script>
 
 <style>
@@ -98,7 +102,7 @@
             </p>
         </div>
     </div>
-    <div class="card">        
+    <!-- <div class="card">        
         <div class="info">
             <h3>Melkior <em>(Gui)</em></h3>
             <h4>Humano - Bruxo</h4>
@@ -107,6 +111,16 @@
             </p>
         </div>
         <img src={Gui} alt="Melkior">
+    </div> -->
+    <div class="card">        
+        <div class="info">
+            <h3>Likha Konka <em>(Lucas)</em></h3>
+            <h4>Halfling - Ranger</h4>
+            <p>
+                Integrante da liga de Artesãos, essa talentosa halfling desenvolveu uma avançadíssima arma de fogo. Após roubar materiais de sua própria guilda voltou para Querizania, sua cidade natal, onde busca aperfeiçoar sua arma e um dia voltar para a Guilda, para pagar seu débito para com eles, e ganhar seu respeito, com sua arma avançada.
+            </p>
+        </div>
+        <img src={Lucas} alt="Likha Konka">
     </div>
     <div class="card">
         <img src={Ana} alt="Vanessah">
@@ -120,12 +134,33 @@
     </div>
     <div class="card">        
         <div class="info">
-            <h3>Likha Konka <em>(Lucas)</em></h3>
-            <h4>Halfling - Ranger</h4>
+            <h3>Gilger <em>(Berreta)</em></h3>
+            <h4>Anão - Paladino</h4>
             <p>
-                Integrante da liga de Artesãos, essa talentosa halfling desenvolveu uma avançadíssima arma de fogo. Após roubar materiais de sua própria guilda voltou para Querizania, sua cidade natal, onde busca aperfeiçoar sua arma e um dia voltar para a Guilda, para pagar seu débito para com eles, e ganhar seu respeito, com sua arma avançada.
+                Um paladino que fez o Juramento da Vingança. Sempre em busca de justiça a qualquer custo, não póde permitir que malfeitores saiam impunes.
             </p>
         </div>
-        <img src={Lucas} alt="Likha Konka">
+        <img src={Berreta} alt="Gilger">
+    </div>    
+    <div class="card">
+        <img src={Gui} alt="Haroldo">
+        <div class="info">
+            <h3>Haroldo <em>(Gui)</em></h3>
+            <h4>Draconato - Guerreiro</h4>
+            <p>
+                Membro de um clã de draconatos que tem como juramento proteger os dragões de Arkanna. Encontrou primeiro Ayla e depois o restante do grupo enquanto procurava pelo filhote de dragão negro perdido.
+            </p>
+        </div>
     </div>
+    <div class="card">        
+        <div class="info">
+            <h3>Ayla <em>(Gaby)</em></h3>
+            <h4>Elfa - Druída</h4>
+            <p>
+                Essa misteriosa elfa é uma integrante do Clã da Lua, e se sente tão confortável em um corpo de lobo quanto no seu corpo de nascimento. Ela busca poder e conhecimento e não confia muito na humanidade em geral.
+            </p>
+        </div>
+        <img src={Gaby} alt="Ayla">
+    </div>
+    
 </main>
