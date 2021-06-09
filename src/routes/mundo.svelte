@@ -47,7 +47,7 @@
             Titros, em seu anseio de agradar o seu pai e ser considerado o favorito, rapidamente tratou de criar uma estrela
             brilhante magestosa, a qual deu o seu nome. Não querendo ficar para trás, Malvys criou uma estrela ainda maior e
             mais brilhante próxima a de seu irmão, e a batizou com o nome dela. Os dois astros orbitam um ao outro numa dança
-            celestial que dua até os dias atuais.
+            celestial que dura até os dias atuais.
         </p>
         
         <p>
@@ -95,13 +95,13 @@
             A devastação foi gigantesca, os dois criadores asssitiram em silêncio o desenrolar da guerra, já que nenhum dos dois
             tinha mais energia de criação, e só podiam influenciar no conflito de formas mais sutis, através de mágicas e
             milagres.
-            Com o tempo e depois de muita destruição, vários dragões, liderados pelos mais antigos da sua espécie, os poderosos Tiamat e Bahamut, conseguiram prender o Tarrasque embaixo da Terra, onde
+            Com o tempo e depois de muita destruição, vários dragões, liderados pelos mais antigos da sua espécie, os poderosos Tiamat e Bahamut (ambos filhos de Malvys), conseguiram prender o Tarrasque embaixo da Terra, onde
             dizem que ele está preso até os dias de hoje.
         </p>
         
         <p>
             Os outros seres de Ulkal que sobreviveram se espalharam pelo mundo e hoje fazem parte dele, os Orcs, Goblins,
-            Hobglobins e Bugbears vivem entre os nativos, embora nem sempre de forma pacífica, e os Observadores vivem reclusos,
+            Hobglobins e Bugbears vivem entre os nativos, embora nem sempre de forma pacífica. Os Observadores vivem reclusos,
             dizem que ainda remoendo a derrota na guerra e tentando libertar o Tarrasque, pela glória de Titros.
         </p>
     </div>

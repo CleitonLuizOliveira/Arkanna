@@ -48,7 +48,7 @@ import Guilda from "./guilda.svelte";
             Já na entrada do poço o grupo pode ouvir roncos assustadores, que logo descobrem que vem de um casal de Bicos de Machado e seus dois filhotes. Sendo que a Bico de Machado femea estava com uma chave ao redor do seu pescoço. Cora tenta remover a chave sem acordar o animal, mas falha, acordando todos eles. Vanessah, porém, consegue acalmar os animos dos passáros, permitindo que o grupo saia da sala com a chave em mãos.            
         </p>
         <p>
-            Entrando na sala trancada, o grupo luta contra uma aranhan gigante e seus filhotes, após derrotar os monstros, Likah taca fogo em um amontoado de teias, dentro do amontoado o grupo descobre a cabeça ainda viva de Melkior, e descidem traze-lo consigo. Em uma sala secreta, descoberta após resolver um puzzle com as estátuas, eles descobrem um esqueleto segurando uma besta e com um virote na cabeça, um baú que só foi aberto fora do poço, contendo uma ampulheta (a qual Melkior foi capturado tentando roubar), brincos mágicos (que fazem com que Melkior ganhe pernas de aranha), além de várias moedas e itens pertencentes ao bruxo.
+            Entrando na sala trancada, o grupo luta contra uma aranha gigante e seus filhotes, após derrotar os monstros, Likah taca fogo em um amontoado de teias, dentro do amontoado o grupo descobre a cabeça ainda viva de Melkior, e descidem traze-lo consigo. Em uma sala secreta, descoberta após resolver um puzzle com as estátuas, eles descobrem um esqueleto segurando uma besta e com um virote na cabeça, um baú que só foi aberto fora do poço, contendo uma ampulheta (a qual Melkior foi capturado tentando roubar), brincos mágicos (que fazem com que Melkior ganhe pernas de aranha), além de várias moedas e itens pertencentes ao bruxo.
         </p>
         <p>
             Saindo do posso o grupo encontra a casa de Ingo e Helga em chamas, o primeiro está morto e a última gravemente ferida, Helga conta que a casa foi queimada por um monstro verde com um enorme e vários tentáculos, o grupo então decide voltar a cidade. Chegando lá encontram tudo fechado e descobrem que o monstro foi para a Mansão da Guilda, e deixam Helga no tempo antes de partirem para lá também, ao chegar lá encontram os dois monstros, dois Expectadores, um deles muito educado e outro mais grosseiro, eles querem saber quem foi o responsável ao ataque na floresta, e levam o líder da uilda, Jean Luc, como seu prisioneiro petrificado. O grupo toma os guardas Pierre e Louie como prisionaieors. Na mansão encontram um documento falando sobre o paradeiro da mãe de Elanor, que está na capital de Brandeville, um mapa que mostra a localização dos membros de Belkior e até um guia que pode ajudar Likha a melhorar sua arma, mas o mais urgente é um memorando informando que em duas semanas o vilarejo de Orcs onde Vanessa nasceu será atacado por 400 soldados da Guilda. O grupo decide dar os brincos apra Belkior e após ver a sua aterradora transformação a sessão acaba.
@@ -76,5 +76,51 @@ import Guilda from "./guilda.svelte";
             O grupo decide voltar para o vilarejo, com Vanessah usando o capacete, decidindo então usar o Observador como arma na batalha vindoura...
         </p>
     </div>
+    <div class="session">
+        <h2>Sessão 3</h2>
+        <p>
+            Antes da batalha há muito discussão sobre quem deverá usar o capacete durante a batalha, Lycah usa o capacete para sequestrar o dragão Bebê (que agora vive em uma vila junto com os kobolds que enriqueceram na piramide) e sua "mãe" kobold. O resto do grupo discorda de mante-los para a batalha e os acabam sendo libertados.
+            O grupo se prepara para a batalha, construindo trincheiras e treinando. Alguns dias antes da batalha (que aconteceria antes do esperado), alguns integrantes do grupo conseguem assustar boa parte dos soldados usando o Beholder Zumbi, mesmo assim a batalha foi lutada com grande desvantagem para os orcs, mas com poucas baixas de ambos os lados e muitos membros da guilda tomados como prisioneiros.
+            Durante a batalha o grupo de aventureiros usa um plano de usar ilusões para fingir que são 3 beholders, e Iago controla o Beholder durante todo o confronto, em um momento o Beholder morre, ainda sob o controle do Orc, mas renasce logo depois.
+            Todos os orcs ficam feridos durante a batalha, com a excessão de Luizão e Akbar.
+        </p>        
+    </div>
+    <div class="session">
+        <h2>Sessão 4</h2>
+        <p>
+            Depois da batalha, Dinho descobre que a ampulheta pode ser usada para se comunicar com os mortos, por um minuto. Iago começa a agir estranho quando sem o capacete, dizendo que o corpo do Beholder é seu corpo verdadeiro, começando um debate ético entre os integrantes do grupo de heróis. 
+        </p>  
+        <p>
+            Paralelamente a isso, um Paladino chamado Gilgir chega na vila, ele foi enviado pelos kobolds para prender Lycah, junto com um pequeno pelotão de Bugbears. Depois de muitas trapalhadas, o Paladino vai embora levando Melkior e Lycah como prisioneiros, e liberando Alatreon, que antes havia sido capturado por acidente.
+        </p>
+    </div>
+    <div class="session">
+        <h2>Sessão 5</h2>
+        <p>
+            Uma loba e um homem dragão chegam na vila, ele diz que estava na floresta para fazer uma missão, e recuperar um bebê dragão que está sumido, quando a loba a encontrou e o convenceu a seguir ela, mesmo sem falar uma palavra.
+            As pessoas da vila acham uma forma não verbal de se comunicar com ela e vão a seguindo rapidamente pela floresta. Enquanto isso aocntece, ninguém é capaz de utilizar magia.
+
+        </p>  
+        <p>
+            A loba os leva até uma caverna, lá dentro o grupo encontra dois integrantes da Guilda decapitados. Após o grupo passar horas vagando pela caverna e cada vez vão sentindo mais dor de cabeça, eles percebem que nunca saíram da entrada da mesma. Ao perceber isso todos desmaiam de dor, menos Vanessah e Cora.
+        </p>
+        <p>
+            Paralelamente a isso, Melkior convence Gilgir que ele não é uma pessoa ruim, e o paladino também acha que o crime de Lycah não é tão urgente assm. Dessa forma, esse grupo decide se uir aos demais, eventualmente indo até a caverna.
+        </p>
+        <p>
+            As duas começam uma batalha contra 2 devoradores de intelecto, em uma sala contendo uma estranha máquina meio biológica, meio mecanica, e um Illithid que fica observando enquanto faz experimentos com outro membro da Guilda.
+            Durante a batalha, todos se unem e os outros integrantes acordam. Vanessah destroi a máquina, possibilitando assim o uso da Magia. o Illithid foge depois de colocar uma pequan criatura no nariz do integrante da Guilda.
+            Ao fim da batalha o grupo vence os monstros, mas Vanessah e Gilgir estão desmaiados e com aparente dano cerebral.
+            O grupo passa a discutir o que fazer com o membro da Guilda restante, mas durante a conversa a loba, agora em sua forma élfica corta repentinamente o pescoço do homem.
+            Depois da batalha o grupo usa o Beholder Zumbi para destruir a parede secreta por onde o monstro fugir e para carregar os feridos de volta para a vila dos orcs.
+        </p>
+        <p>
+            O grupo descobre que quando o local estava se magia o beholder destruiu a vila ao sul, habitada pelos Kobols, e decidem chamar os sobreviventes para ficarem alojados na vila dos orcs.
+        </p>
+        <p>
+            O grupo decide matar o Beholder, enquanto Melkior vai sozinho apra a floresta, segundo ele para invocar seu familiar. O Beholder morre com dano divino dado pela Elanor, e seu corpo vira um montinho de poeira. Depois disso Licah parte rumo a Zerikania e o resto do grupo vai dormir. Ao acordar Dinho, que tinha examinado Vanessah e Gilgir diz que tem como salvar eles, mas que o resto do grupo não iria gostar de como isso seria feito.
+        </p>
+    </div>
+
 </main>
 

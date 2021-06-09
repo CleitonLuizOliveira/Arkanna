@@ -37,7 +37,7 @@
     </p>
     
     <p>
-        A capital da Guilda é a fortaleza de Brandeville, construída num local onde antes havia uma próspera cidade, mas a mesma foi destruída pela queda do meteoro. Os líderes da guilda usam o incidente letal como prova de que os deuses não se importam com os mortais, e decidiram construir sua fortaleza no centro da cratera onde a tragédia aconteceu.
+        A capital da Guilda é a fortaleza de Brandeville, construída num local onde antes havia uma próspera cidade, mas a mesma foi destruída pela queda de um meteoro. Os líderes da guilda usam o incidente letal como prova de que os deuses não se importam com os mortais, e decidiram construir sua fortaleza no centro da cratera onde a tragédia aconteceu.
     </p>
 </main>
 
