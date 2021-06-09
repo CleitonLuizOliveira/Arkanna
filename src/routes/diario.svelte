@@ -80,9 +80,14 @@ import Guilda from "./guilda.svelte";
         <h2>Sessão 3</h2>
         <p>
             Antes da batalha há muito discussão sobre quem deverá usar o capacete durante a batalha, Lycah usa o capacete para sequestrar o dragão Bebê (que agora vive em uma vila junto com os kobolds que enriqueceram na piramide) e sua "mãe" kobold. O resto do grupo discorda de mante-los para a batalha e os acabam sendo libertados.
+        </p>  
+        <p>
             O grupo se prepara para a batalha, construindo trincheiras e treinando. Alguns dias antes da batalha (que aconteceria antes do esperado), alguns integrantes do grupo conseguem assustar boa parte dos soldados usando o Beholder Zumbi, mesmo assim a batalha foi lutada com grande desvantagem para os orcs, mas com poucas baixas de ambos os lados e muitos membros da guilda tomados como prisioneiros.
             Durante a batalha o grupo de aventureiros usa um plano de usar ilusões para fingir que são 3 beholders, e Iago controla o Beholder durante todo o confronto, em um momento o Beholder morre, ainda sob o controle do Orc, mas renasce logo depois.
+        </p>  
+        <p>
             Todos os orcs ficam feridos durante a batalha, com a excessão de Luizão e Akbar.
+            Cora descobre que seus pais estão sendo prisioneiros na cidade próxima a floresta, a oeste.
         </p>        
     </div>
     <div class="session">
