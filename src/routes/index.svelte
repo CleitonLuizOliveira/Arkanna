@@ -38,7 +38,7 @@
 		<h2>Que site é esse?</h2>
 		<p>Aqui você pode conferir todas as informações disponíveis sobre a aventura, e tirar suas dúvidas sobre o mundo e sobre os personagens que o habitam, mas claro, tudo sem spoilers!</p>
 
-		<h2>E se eu identificar um errro?</h2>
+		<h2>E se eu identificar um erro?</h2>
 		<p>Fala comigo no WhatsApp que eu vou resolver o mais breve possível, pode deixar!</p>
 	</main>
 
